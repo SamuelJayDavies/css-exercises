@@ -1,0 +1,19 @@
+.default-paragraph {
+    background-color: rgba(255, 0, 0, 0.281);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.default-paragraph.cooler {
+    font-size: larger;
+}
+
+#blue {
+    font-size: xx-large;
+    color: blue;
+}
+
+#green {
+    font-size: x-large;
+    background-color: rgb(123, 221, 11);
+    font-weight: bolder;
+}
